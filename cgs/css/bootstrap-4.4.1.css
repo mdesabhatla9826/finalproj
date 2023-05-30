@@ -569,11 +569,10 @@ pre code {
 }
 video {
     text-align: center;
-    margin-left: 692px;
-    margin-right: 692px;
+	margin: auto;
 }
 .video {
-    margin-left: 945px;
+	margin: auto;
 }
 
 
