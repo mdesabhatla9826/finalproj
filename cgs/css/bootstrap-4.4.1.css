@@ -572,7 +572,8 @@ video {
 	margin: auto;
 }
 .video {
-	margin: auto;
+    margin: auto;
+    padding-left: 261px;
 }
 
 
